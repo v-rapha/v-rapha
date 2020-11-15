@@ -2,7 +2,8 @@ name: Readme with metrics
 
 on:
   schedule:
-    - cron: '5 * * * *'
+    - cron: '0 8 * * 1'
+  workflow_dispatch:
 
 jobs:
   update-readme:
