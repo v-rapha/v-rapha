@@ -18,3 +18,6 @@ I am a developer who is always looking to learn and improve my skills.
 <img src="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white" />
 <img src="https://img.shields.io/badge/git-%23F05032.svg?&style=for-the-badge&logo=Git&logoColor=white" />
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
