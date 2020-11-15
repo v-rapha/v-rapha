@@ -1,4 +1,4 @@
-name: Waka Readme
+name: Readme with metrics
 
 on:
   schedule:
