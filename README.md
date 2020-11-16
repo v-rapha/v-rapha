@@ -46,7 +46,7 @@ I am a developer that is always looking to improve my skills.
 
 **🐱 My Github Data** 
 
-> 🏆 334 Contributions in the Year 2020
+> 🏆 337 Contributions in the Year 2020
  > 
 > 📦 54.8 kB Used in Github's Storage 
  > 
