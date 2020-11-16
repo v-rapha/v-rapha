@@ -20,13 +20,13 @@ I am a developer who is always looking to learn and improve my skills.
 <img src="https://img.shields.io/badge/git-%23F05032.svg?&style=for-the-badge&logo=Git&logoColor=white" />
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-161-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-184-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-431651%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 333 Contributions in the Year 2020
+> 🏆 334 Contributions in the Year 2020
  > 
 > 📦 54.8 kB Used in Github's Storage 
  > 
@@ -83,10 +83,6 @@ HTML                     2 repos             ██░░░░░░░░░�
 
 ```
 
-
-**Timeline**
-
-![Chart not found](https://github.com/v-rapha/v-rapha/blob/master/charts/bar_graph.png) 
 
 
 <!--END_SECTION:waka-->
