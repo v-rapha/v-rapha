@@ -1,10 +1,12 @@
-### Hi there i'm Vinicius 👋
+### Hi there 👋 I'm Vinicius!
 
 ---
 
 I am a developer that is always looking to improve my skills.
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+
+---
 
 <details open>
   <summary>📈 <b>Github stats</b>:</summary>
