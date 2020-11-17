@@ -40,7 +40,7 @@ I am a developer that is always looking to improve my skills.
   <br/>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-184-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-207-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-431651%20lines%20of%20code-blue)
 
@@ -52,9 +52,9 @@ I am a developer that is always looking to improve my skills.
  > 
 > 💼 Opted to Hire
  > 
-> 📜 12 Public Repositories
+> 📜 13 Public Repositories
  > 
-> 🔑 11 Private Repositories 
+> 🔑 10 Private Repositories 
 
 **I'm a Night 🦉** 
 
@@ -83,13 +83,15 @@ Sunday       27 commits     ██░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+YAML                     20 mins             ████████████████░░░░░░░░░   66.85% 
+Markdown                 10 mins             ████████░░░░░░░░░░░░░░░░░   33.15% 
+TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  30 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  30 mins             █████████████████████████   100.0%
 
 ```
 
