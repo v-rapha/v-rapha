@@ -48,7 +48,7 @@ I am a developer that is always looking to improve my skills.
 
 > 🏆 359 Contributions in the Year 2020
  > 
-> 📦 55.3 kB Used in Github's Storage 
+> 📦 55.6 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
