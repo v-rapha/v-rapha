@@ -11,8 +11,11 @@ I am a developer that is always looking to improve my skills.
 <details open>
   <summary>📈 <b>Github stats</b>:</summary>
  
- ![Anurag's github stats](https://github-readme-stats-tau-nine.vercel.app/api?username=v-rapha&hide=contribs,prs&show_icons=true&theme=onedark&count_private=true)
- ![Top Langs](https://github-readme-stats-tau-nine.vercel.app/api/top-langs/?username=v-rapha&layout=compact&theme=onedark)
+ <!-- ![Anurag's github stats](https://github-readme-stats-tau-nine.vercel.app/api?username=v-rapha&hide=contribs,prs&show_icons=true&theme=onedark&count_private=true) -->
+ ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=v-rapha&hide=contribs,prs&show_icons=true&theme=onedark&count_private=true)
+ <!-- ![Top Langs](https://github-readme-stats-tau-nine.vercel.app/api/top-langs/?username=v-rapha&layout=compact&theme=onedark) -->
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=v-rapha&layout=compact&theme=onedark)
+
 
  </details>
 
